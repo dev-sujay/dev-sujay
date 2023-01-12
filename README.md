@@ -22,6 +22,7 @@
 
 
 ## My Skill Set  
+<div align="center">  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -65,6 +66,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  </div>  
   
 
 <br/>  
