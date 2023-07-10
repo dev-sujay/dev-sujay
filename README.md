@@ -4,12 +4,9 @@
   
 
 ### <div align="center">I'm Sujay, a front-end developer 👨‍💻  🚀</div>  
-  
+    
 
-- 🔭 I’m currently working on [Covid19 Stats App](https://covid19-stats-check.netlify.app/)  
-  
-
-- 🌱 I’m currently learning ReactJS and NodeJS  
+- 🌱 I’m currently learning NextJS
   
 
 - ❓ Ask me about anything related to HTML, CSS and JavaScript and related technologies  
